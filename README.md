@@ -1,7 +1,7 @@
 
 
-# AWSWorkshop.io base workshop 
+# AWSWorkshop.io Workshop - Harness
 
-This is a base workshop.  Clone and start from this repo to create your workshop.
+This is the repository to geneate the AWS/Harness Workshop from with Huego. 
 
 
