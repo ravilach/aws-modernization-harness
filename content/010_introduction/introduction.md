@@ -15,5 +15,4 @@ There will be a few moving pieces.
 During the deployment, will be deploying a stable then unstable version of the [Harness Sample Application](https://hub.docker.com/r/harness/cv-demo)
 to show the virtues of an automated canary deployment. 
 
-Promethesus will be used to automate the canary deployment as the primary source of mertric verification. The lab will set up, deploy, and configure Promethesus in an automated fashion. 
-
+Prometheus will be used to automate the canary deployment as the primary source of metric verification. The lab will walk through installing and configuring Prometheus.
