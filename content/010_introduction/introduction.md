@@ -8,7 +8,7 @@ By leveraging the [Harness](https://harness.io/platform/).
 There will be a few moving pieces. 
 
 * An Amazon EKS Cluster with the ability to deploy
-* A Harness Account
+* A Harness Account in which you [can sign up here](http://bit.ly/harness-aws-workshop)
 
 ## Description
 
