@@ -10,7 +10,7 @@ Setup -> Harness Delegates  then Click on Install Delegate.
 
 Name: “eks-delegate”
 
-![eks-delegate](install_delegate.png)
+![eks-delegate](../../static/images/install_delegate.png)
 
 Can download to your local machine once or if using a remote machine, can copy the cURL command in the “Copy Download Link” link. 
 
