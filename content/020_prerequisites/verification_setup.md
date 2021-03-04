@@ -12,7 +12,7 @@ Kubernetes Metrics Server
 Installing the Metrics Server can be done in one kubectl command. 
 kubectl apply -f https://github.com/kubernetes-sigs/metrics-server/releases/latest/download/components.yaml
 
-![kubctl apply metrics server](../images/install_metrics_server.png)
+![kubctl apply metrics server](../images/images/install_metrics_server.png)
 
 ## Prometheus Installation
 
