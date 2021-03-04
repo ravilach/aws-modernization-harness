@@ -1,4 +1,4 @@
-#Initial Harness Setup
+# Initial Harness Setup
 
 Once you have signed up for an account with Harness, you can log into Harness by heading to app.harness.io and logging in with your credentials. Harness works on a CD Abstraction Model which will be needed to be filled out. The first step will be to install the Harness Delegate into your EKS Cluster. 
 
@@ -10,7 +10,7 @@ Setup -> Harness Delegates  then Click on Install Delegate.
 
 Name: “eks-delegate”
 
-![eks-delegate](../../static/images/install_delegate.png)
+![eks-delegate](install_delegate.png)
 
 Can download to your local machine once or if using a remote machine, can copy the cURL command in the “Copy Download Link” link. 
 
